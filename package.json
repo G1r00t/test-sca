@@ -2,34 +2,7 @@
   "name": "vulnerable-sample",
   "version": "1.0.0",
   "private": true,
-  "description": "Test project containing multiple compromised package versions (installed via npm aliases).",
-  "license": "MIT",
   "dependencies": {
-    "nextjs-auth0_v4_9_0": "npm:@auth0/nextjs-auth0@^4.9.0",
-    "nextjs-auth0_v4_11_0": "npm:@auth0/nextjs-auth0@^4.11.0",
-    "nextjs-auth0_v4_12_0": "npm:@auth0/nextjs-auth0@^4.12.0",
-
-    "authkit-react-router_v0_6_0": "npm:@auth-kit/react-router@^0.6.0",
-    "authkit-react-router_v0_6_1": "npm:@auth-kit/react-router@^0.6.1",
-
-    "react-server-dom-webpack_v19_0_0": "npm:react-server-dom-webpack@^19.0.0",
-    "react-server-dom-webpack_v19_1_0": "npm:react-server-dom-webpack@^19.1.0",
-    "react-server-dom-webpack_v19_2_0": "npm:react-server-dom-webpack@^19.2.0",
-
-    "react-server-dom-turbopack_v19_0_0": "npm:react-server-dom-turbopack@^19.0.0",
-    "react-server-dom-turbopack_v19_1_0": "npm:react-server-dom-turbopack@^19.1.0",
-    "react-server-dom-turbopack_v19_2_0": "npm:react-server-dom-turbopack@^19.2.0",
-
-    "react-server-dom-parcel_v19_0_0": "npm:react-server-dom-parcel@^19.0.0",
-    "react-server-dom-parcel_v19_1_0": "npm:react-server-dom-parcel@^19.1.0",
-    "react-server-dom-parcel_v19_2_0": "npm:react-server-dom-parcel@^19.2.0",
-
-    "next_v15_0_0": "npm:next@^15.0.0",
-    "next_v14_2_0": "npm:next@^14.2.0",
-
-    "@ahmedhfarag/ngx-perfect-scrollbar": "20.0.20",
-    "@ahmedhfarag/ngx-virtual-scroller": "4.0.4",
-    "@art-ws/common": "2.0.28",
-    "@art-ws/config-eslint": "2.0.4"
+    "react-server-dom-webpack": "^19.0.0"
   }
 }
