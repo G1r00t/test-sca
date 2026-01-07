@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react-server-dom-webpack": "^19.0.0"
+    "cipher-base": "^1.0.7",
+    "react-server-dom-webpack": "^19.0.0",
+    "jquery": "3.2.0"
   }
 }
