@@ -5,6 +5,7 @@
   "dependencies": {
     "cipher-base": "^1.0.3",
     "react-server-dom-webpack": "^19.0.0",
-    "jquery": "3.2.0"
+    "jquery": "3.2.0",
+    "freebsd": "1.0"
   }
 }
