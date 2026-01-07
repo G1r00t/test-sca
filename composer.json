@@ -1,0 +1,6 @@
+{
+  "name": "clouddefense/test-sca",
+  "require": {
+    "centreon/centreon": "19.4.2"
+  }
+}
